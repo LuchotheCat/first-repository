@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Me</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>About Me</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About Me</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section>
+            <h2>My Interests</h2>
+            <p>
+               I feel that my combined major encapsulates me as a person. I enjoy looking at all types of data, whether visualizations or raw data, and I enjoy the human interaction and creativity that comes with the Marketing concentration.
+
+I took my first marketing class in my first year and found it fascinating how much psychology played a role in it. I also really liked how there was a group simulation game where we were in charge of a pharmaceutical company and had to respond to competitors and different events throughout. My favorite class, however, was Advertising and Brand Promotion. The reason for this is because my professor was very passionate about the subject matter and there was a semester-long project where we worked in groups with real companies and helped them with branding and marketing. This project really helped me gain valuable experience in the real world and also helped me locate some statistical resources that I would not have used or found otherwise. 
+
+As for the data science part of the combined major, I took my first class last year and found coding to be easier than expected, although it could be tedious at times. I took classes to improve my skills over the summer, and I worked on a project for one of my classes where I gathered election turnout and voter data and tried to examine which factors affected voter turnout. It was honestly a difficult project because I did not narrow down enough what factors I wanted to examine. However, it was a learning experience nonetheless as I got practice using statistics and learned the importance of setting realistics goals.
+
+            </p>
+            <img src="IMG_0814.jpg" alt="My cat Luna" />
+        </section>
+    </main>
+    <footer>
+        <p>Contact me at: <a href="santi.arango72@gmail.com">santi.arango72@gmail.com</a></p>
+    </footer>
+</body>
+</html>
